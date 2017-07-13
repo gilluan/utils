@@ -1,6 +1,5 @@
 //Algoritimo de edição e exclusão
 // Será necessário um refactory em todos os requerimentos
-// Específico para uso da dpf
 
 
 (function() {
