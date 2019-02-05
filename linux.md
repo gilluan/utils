@@ -1,6 +1,6 @@
 ```bash
 
-  sudo apt-get install cntlm
+> sudo apt-get install cntlm
   sudo cp cntlm.conf /etc
   sudo vi cntlm.conf
   sudo emacs cntlm.conf
